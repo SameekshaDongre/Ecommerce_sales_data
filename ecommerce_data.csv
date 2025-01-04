@@ -1,0 +1,21 @@
+order_id,order_date,customer_id,customer_country,product_id,product_name,product_category,product_price,quantity
+1001,15-01-2023,C001,USA,P101,Wireless Earbuds,Electronics,$79.99,2
+1002,16-01-2023,C002,Canada,P102,Yoga Mat,Sports & Outdoors,$24.99,1
+1003,17-01-2023,C003,UK,P103,Smart Watch,Electronics,$149.99,1
+1004,18-01-2023,C004,Germany,P104,Running Shoes,Sports & Outdoors,$89.99,1
+1005,19-01-2023,C005,France,P105,Portable Charger,Electronics,$34.99,3
+1006,20-01-2023,C006,Australia,P106,Protein Powder,Health & Wellness,$39.99,2
+1007,21-01-2023,C007,Japan,P107,Wireless Mouse,Electronics,$29.99,1
+1008,22-01-2023,C008,USA,P108,Resistance Bands,Sports & Outdoors,$19.99,4
+1009,23-01-2023,C009,Canada,P109,Bluetooth Speaker,Electronics,$59.99,1
+1010,24-01-2023,C010,UK,P110,Fitness Tracker,Electronics,$99.99,1
+1011,25-01-2023,C011,Germany,P111,Backpack,Travel,$49.99,1
+1012,26-01-2023,C012,France,P112,Water Bottle,Sports & Outdoors,$14.99,2
+1013,27-01-2023,C013,USA,P113,Laptop Stand,Electronics,$29.99,1
+1014,28-01-2023,C014,Canada,P114,Wireless Keyboard,Electronics,$49.99,1
+1015,29-01-2023,C015,UK,P115,Foam Roller,Sports & Outdoors,$19.99,1
+1016,30-01-2023,C016,Germany,P116,Desk Lamp,Home & Office,$39.99,1
+1017,31-01-2023,C017,France,P117,Phone Case,Electronics,$14.99,2
+1018,01-02-2023,C018,Australia,P118,Jump Rope,Sports & Outdoors,$9.99,1
+1019,02-02-2023,C019,Japan,P119,Wireless Charger,Electronics,$24.99,1
+1020,03-02-2023,C020,USA,P120,Reusable Straws,Home & Office,$7.99,3
