@@ -7,7 +7,7 @@ import seaborn as sns
 df = pd.read_csv('ecommerce_data.csv')
 
 # Data cleaning
-df['order_date'] = http://pd.to_datetime(df['order_date'])
+df['order_date'] = pd.to_datetime(df['order_date'])
 df['product_price'] = df['product_price'].str.replace('$', '').astype(float)
 df['total_sales'] = df['product_price'] * df['quantity']
 
