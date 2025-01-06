@@ -1,5 +1,5 @@
 # Dataverse: E-commerce Insights Dashboard
-A comprehensive project showcasing data cleaning, analysis, and visualization for e-commerce sales data using Python, Power BI, and JavaScript.
+A comprehensive project showcasing data cleaning, analysis, and visualization for e-commerce sales data using Python, Power BI.
 
 ## Project Overview  
 This project is designed to extract actionable insights from e-commerce data. It demonstrates proficiency in data analysis, visualization, and dashboard creation, with a focus on delivering impactful business intelligence.
